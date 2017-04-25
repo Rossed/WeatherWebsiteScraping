@@ -1,0 +1,17 @@
+apply plugin: "groovy"
+apply plugin:'application'
+mainClassName = 'Weather'
+
+ext {
+        groovyVersion = '2.4.8'
+        jsoupVersion = '1.6.1'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile "org.codehaus.groovy:groovy-all:$groovyVersion"
+    compile "org.jsoup:jsoup:$jsoupVersion"
+}

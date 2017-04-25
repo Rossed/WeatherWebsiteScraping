@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/Website Scrapping/build/libs/Weather.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/Website Scrapping/build/libs/Website Scrapping.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,29 @@
+{
+    "year 1": {
+        "2017": {
+            "month": {
+                "04": {
+                    "day": {
+                        "17": {
+                            "hour": {
+                                "09": {
+                                    "rain": "0 mm of rain since 9 am",
+                                    "temperature": "15.9 \u00b0C"
+                                },
+                                "10": {
+                                    "rain": "17.8 \u00b0C",
+                                    "temperature": "0 mm of rain since 9 am"
+                                },
+                                "11": {
+                                    "rain": "17.8 \u00b0C",
+                                    "temperature": "0 mm of rain since 9 am"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+
+}
